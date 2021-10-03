@@ -1,4 +1,4 @@
-package dev.panda.ability.managers.cooldown;
+package dev.panda.ability.managers;
 
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.IllegalPluginAccessException;
