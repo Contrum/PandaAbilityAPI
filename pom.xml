@@ -6,7 +6,7 @@
 
     <groupId>dev.panda.ability</groupId>
     <artifactId>PandaAbilityAPI</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <repositories>
         <repository>
@@ -28,7 +28,7 @@
             <artifactId>PandaAbility</artifactId>
             <version>dev-SNAPSHOT</version>
             <scope>system</scope>
-            <systemPath>C:\Users\galle\Documents\@GitProjects\@PandaCommunity\PandaAbility\target\PandaAbility-1.5.5-SNAPSHOT.jar</systemPath>
+            <systemPath>C:/Users/galle/Documents/@GitProjects/@PandaCommunity/PandaAbility/target/PandaAbility-1.5.5-SNAPSHOT.jar</systemPath>
         </dependency>
     </dependencies>
 

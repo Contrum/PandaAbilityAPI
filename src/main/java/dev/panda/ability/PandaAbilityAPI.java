@@ -2,7 +2,7 @@ package dev.panda.ability;
 
 import dev.panda.ability.abilities.Ability;
 
-import dev.panda.ability.managers.cooldown.GlobalCooldownManager;
+import dev.panda.ability.managers.GlobalCooldownManager;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.IllegalPluginAccessException;
 
